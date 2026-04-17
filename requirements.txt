@@ -1,0 +1,6 @@
+sentence-transformers
+langchain
+numpy
+faiss-cpu
+ollama
+flask
