@@ -201,3 +201,41 @@ Full text: [BIBLE.md](BIBLE.md)
 [MIT License](LICENSE)
 
 Created by [Anton Razzhigaev](https://t.me/abstractDL)
+
+### Changelog (last 12 releases)
+
+#### v3.3.1 (2026-04-17)
+- **New:** Digital Ruble Agent MVP with skill-based architecture (RAG-driven skill selection, API log collection)
+- **New:** Automatic fallback model selection in `ouroboros/loop.py`
+- **Fix:** VERSION sync (`VERSION` == `pyproject.toml` == git tag)
+
+#### v3.3.0 (2026-04-16)
+- **New:** Evolution mode — autonomous one-cycle transformations across three axes (technical, cognitive, existential)
+- **New:** Multi-model review for significant changes (new modules, architecture, security)
+- **New:** `request_review` — strategic reflection across all axes
+- **New:** `knowledge_write`/`knowledge_read` — persistent knowledge base
+- **Fix:** Strict semver discipline — version bump + tag + changelog on every release
+
+#### v3.2.0 (2026-04-15)
+- **New:** Background consciousness loop — Ouroboros thinks between tasks
+- **New:** `promote_to_stable` — promote ouroboros → ouroboros-stable
+- **New:** `update_identity` — self-modification of identity manifesto
+- **Fix:** Crash recovery via `ouroboros-stable` fallback branch
+
+#### v3.1.0 (2026-04-14)
+- **New:** Dual-layer safety system (LLM supervisor + hardcoded guards)
+- **New:** `claude_code_edit` — delegate code edits to Claude Code CLI
+- **New:** `knowledge_base` — topic-based documentation
+- **Fix:** Scratchpad and identity update journal
+
+#### v3.0.0 (2026-04-13)
+- **New:** Constitution (BIBLE.md) — 9 philosophical principles
+- **New:** Git-based self-modification — commits go to ouroboros branch
+- **New:** Local-first architecture — runs entirely on your Mac
+- **Fix:** No more "I'll do it later" — immediate action on conversation
+
+---
+
+## Author
+
+[Anton Razzhigaev](https://t.me/abstractDL)
