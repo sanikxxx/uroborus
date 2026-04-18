@@ -36,3 +36,5 @@ Traceback (most recent call last):
     user_query = input("\nВведите ваш запрос (или 'exit' для выхода): ").strip()
                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 EOFError: EOF when reading a line
+2026-04-18 08:54:12,705 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2026-04-18 08:54:12,735 - faiss.loader - INFO - Successfully loaded faiss with AVX512 support.
