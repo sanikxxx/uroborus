@@ -1,0 +1,38 @@
+2026-04-17 21:26:15,664 - ToolRegistry - INFO - Инициализация реестра инструментов
+2026-04-17 21:26:15,664 - ToolRegistry - INFO - Зарегистрирован инструмент: read_doc
+2026-04-17 21:26:15,664 - ToolRegistry - INFO - Зарегистрирован инструмент: search_docs
+2026-04-17 21:26:15,664 - ToolRegistry - INFO - Зарегистрирован инструмент: get_api_logs
+2026-04-17 21:26:15,664 - ToolRegistry - INFO - Зарегистрировано 3 базовых инструментов
+2026-04-17 21:26:15,664 - DigitalRubleAgent - INFO - Запуск Digital Ruble Agent MVP
+2026-04-17 21:26:15,665 - ToolRegistry - INFO - Инициализация реестра инструментов
+2026-04-17 21:26:15,665 - ToolRegistry - INFO - Зарегистрирован инструмент: read_doc
+2026-04-17 21:26:15,665 - ToolRegistry - INFO - Зарегистрирован инструмент: search_docs
+2026-04-17 21:26:15,665 - ToolRegistry - INFO - Зарегистрирован инструмент: get_api_logs
+2026-04-17 21:26:15,665 - ToolRegistry - INFO - Зарегистрировано 3 базовых инструментов
+2026-04-17 21:26:15,818 - AgentCore - INFO - Инициализация ядра агента завершена. Документация: /opt/ouroboros/digital_ruble_agent/docs
+2026-04-17 21:26:15,818 - DigitalRubleAgent - INFO - Digital Ruble Agent MVP готов к работе
+2026-04-17 21:26:15,818 - DigitalRubleAgent - ERROR - Критическая ошибка: EOF when reading a line
+Traceback (most recent call last):
+  File "/opt/ouroboros/digital_ruble_agent/src/main.py", line 59, in main
+    user_query = input("\nВведите ваш запрос (или 'exit' для выхода): ").strip()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+2026-04-17 21:26:20,269 - ToolRegistry - INFO - Инициализация реестра инструментов
+2026-04-17 21:26:20,269 - ToolRegistry - INFO - Зарегистрирован инструмент: read_doc
+2026-04-17 21:26:20,269 - ToolRegistry - INFO - Зарегистрирован инструмент: search_docs
+2026-04-17 21:26:20,269 - ToolRegistry - INFO - Зарегистрирован инструмент: get_api_logs
+2026-04-17 21:26:20,269 - ToolRegistry - INFO - Зарегистрировано 3 базовых инструментов
+2026-04-17 21:26:20,269 - DigitalRubleAgent - INFO - Запуск Digital Ruble Agent MVP
+2026-04-17 21:26:20,269 - ToolRegistry - INFO - Инициализация реестра инструментов
+2026-04-17 21:26:20,270 - ToolRegistry - INFO - Зарегистрирован инструмент: read_doc
+2026-04-17 21:26:20,270 - ToolRegistry - INFO - Зарегистрирован инструмент: search_docs
+2026-04-17 21:26:20,270 - ToolRegistry - INFO - Зарегистрирован инструмент: get_api_logs
+2026-04-17 21:26:20,270 - ToolRegistry - INFO - Зарегистрировано 3 базовых инструментов
+2026-04-17 21:26:20,355 - AgentCore - INFO - Инициализация ядра агента завершена. Документация: /opt/ouroboros/digital_ruble_agent/docs
+2026-04-17 21:26:20,355 - DigitalRubleAgent - INFO - Digital Ruble Agent MVP готов к работе
+2026-04-17 21:26:20,355 - DigitalRubleAgent - ERROR - Критическая ошибка: EOF when reading a line
+Traceback (most recent call last):
+  File "/opt/ouroboros/digital_ruble_agent/src/main.py", line 59, in main
+    user_query = input("\nВведите ваш запрос (или 'exit' для выхода): ").strip()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
